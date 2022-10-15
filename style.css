@@ -1,0 +1,97 @@
+
+*{
+  margin: 0%;
+  padding: 0%;
+}
+ul{
+  margin:0;
+  padding: 0;
+  list-style: none;
+  height: 30px;
+  background-color:lightgrey;
+  font-size: 0px;
+
+}
+
+
+li{
+  float: left;
+}
+
+body{
+  background-color: rgba(61, 51, 172, 0.703);
+}
+h1{
+  font-size: 20px;
+  color: white;
+  margin-top: 10px;
+}
+.logo{
+  height: 30px;
+  width: 70px;
+}
+
+img{
+  font-size: 3;
+  width: 12;
+}
+
+h2{
+  height: 5px;
+  width: 12px;
+}
+
+.one{
+  height: 23px;
+  width: 25;
+}
+
+.two{
+  height: 20px;
+  width: 23;
+}
+.three{
+  height: 19px;
+  width: 21;
+}
+.four{
+  height: 15px;
+  width: 19;
+}
+.five{
+  height: 12px;
+  width: 15;
+}
+p{
+  font-size: 8px;
+  margin-top: 12px;
+  color: white;
+}
+
+.img1{
+  height: 130px;
+  width: 130px;
+  margin-top: 20px
+}
+.img{
+  display: flex;
+
+  margin-left: 170px;
+
+}
+.head{
+  margin-top: 24%;
+  position: relative;
+  right: 20%;
+  margin-top: 20px;
+}
+.head{
+  margin-top: 30%;
+  right: 30px;
+}
+
+.head{
+  margin-top: 30%;
+  position: relative;
+  right: 30px;
+}
